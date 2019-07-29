@@ -45,4 +45,4 @@ function func()
  sg.disengageGate()
 end
 
-local t = event.timer(50,func,1)
+local t = event.timer(30,func,1)
